@@ -1,4 +1,4 @@
-# phpTest
+# Test File to learn elements of PHP
 
 ### To start the server:
 
